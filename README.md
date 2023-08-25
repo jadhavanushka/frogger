@@ -25,5 +25,8 @@ It is a timed grid-based game.
 
 -You will move with the logs when on them
 
+-You can pause the game by pressing the same button as you did to start the game
+
+
+
 // Inspired by Ania Kubow (https://github.com/kubowania)
-You can pause the game by pressing the same button as you did to start the game
